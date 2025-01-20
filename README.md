@@ -1,4 +1,4 @@
-This was a contribution project where I wrote 70+ different Javascript functions. My file is listed in Solutions/ebarr10_complete_solutions.js
+This was a contribution project where I wrote 70+ different Javascript functions. My file is listed [[here](https://github.com/ebarr10/JS_Fun_Practice/blob/master/Solutions/ebarr10_complete_solutions.js)]
 
 # js-function-fun
 
